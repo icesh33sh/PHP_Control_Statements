@@ -5,7 +5,7 @@ $favorites = ['Vios', 'Fortuner', 'Land Cruiser', 'Hilux', 'Toyota 86', 'Subaru 
 
 
  <?php include 'header.php'; ?>
-    <h2><?= $name;?>, please select the flower you will order:</h2>
+    <h2><?= $name;?>, please select your favorite car:</h2>
         <h1>IG CARS</h1>
         <h2>Welcome <?= $name;?>!</h2>
 
