@@ -10,7 +10,7 @@ $total_cost = $quantity_string * $price_number;
     <?php include 'header.php'; ?>
 
 
-    <h1>IG CARS</h1>
+    
     
 
     <p>Unit: <?= $unit; ?></p>
@@ -19,6 +19,6 @@ $total_cost = $quantity_string * $price_number;
     <p>Price: <?= $price_number; ?></p>
 
     <p><strong>Total Cost:</strong> <?= $total_cost; ?></p>
-    
+
 <?php include 'footer.php'; ?>
    

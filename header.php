@@ -11,6 +11,6 @@
     <nav>
         <a href="home.php">Home</a>
         <a href="favorites.php">Favorites</a>
-        <a href="stocks.php">Available Unitst</a>
+        <a href="stocks.php">Available Units</a>
         <a href="demo.php">Demo</a>
     </nav>
